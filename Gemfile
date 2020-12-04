@@ -68,3 +68,6 @@ gem 'devise'
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 # ファイルリサイズ用
 gem "refile-mini_magick"
+
+# ページング機能
+gem 'kaminari','~> 1.2.1'
